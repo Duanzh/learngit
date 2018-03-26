@@ -1,2 +1,3 @@
 Git is a distributed version contorl system.
 Gits is free software distributed under the GPL.
+Git has a multi index called stage.
